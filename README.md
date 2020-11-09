@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Marco Jimenez
 
-You can use the [editor on GitHub](https://github.com/mj509514/My-Webpage/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Welcome!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Below are some animation projects I have worked on.
 
-```markdown
-Syntax highlighted code block
+#### Animate a Word 3D Maya Animation
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ekKv_OMCffQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Header 1
-## Header 2
-### Header 3
+#### Destiny Ghost 3D Maya Animation
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JNm86XT5I3g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mj509514/My-Webpage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Destiny Ghost Turntable
+<iframe src="https://player.vimeo.com/video/379395636" width="640" height="270" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
