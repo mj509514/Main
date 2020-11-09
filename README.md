@@ -1,7 +1,3 @@
-## Marco Jimenez
-
-
-
 ### Welcome!
 
 Below are some animation projects I have worked on.
