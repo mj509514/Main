@@ -1,4 +1,8 @@
 theme: jekyll-theme-tactile
 
 #title: [Marco Jimenez](https://mj509514.github.io/Main/)
+name: Marco Jimenez
 description: My collection of Animation and Unity projects 
+url: https://mj509514.github.io/Main/
+logo: "/assets/images/Marco.jpg"
+google_analytics_id: G-DEM65256H6
