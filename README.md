@@ -2,6 +2,8 @@
 
 ### Welcome! 
 
+Please excuse the mess as I learn how to properly configure my github pages setup. In the meantime, check out a couple example projects I have below!
+
 ## Animation Projects
 
 #### Animate a Word 3D Maya Animation
