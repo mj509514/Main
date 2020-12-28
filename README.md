@@ -6,7 +6,9 @@ Please excuse the mess as I learn how to properly configure my github pages setu
 
 ----------------------
 
+
 ## Animation Projects
+
 
 #### Animate a Word 3D Maya Animation
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ekKv_OMCffQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -21,7 +23,9 @@ Please excuse the mess as I learn how to properly configure my github pages setu
 
 ----------------------
 
+
 ## Unity Projects 
+
 
 #### Roll A Ball in Augmented Reality Ver 0.4
 <iframe width="560" height="315" src="https://www.youtube.com/embed/izFG_UTKgCY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
