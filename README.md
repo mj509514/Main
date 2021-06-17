@@ -4,7 +4,13 @@
 
 Please excuse the mess as I learn how to properly configure my github pages setup. In the meantime, check out a couple example projects I have below!
 
+Shoot me an email at marcoantonjimenez2@gmail.com with any inquiries!
+
 ----------------------
+## Games
+Playable now on my itch.io profile! 
+
+Check out [**Nyan Flyer**](https://midnightw0lf2.itch.io/nyan-flyer), a Flappy Bird clone
 
 
 ## Animation Projects
@@ -25,7 +31,7 @@ Please excuse the mess as I learn how to properly configure my github pages setu
 
 
 ## Unity Projects 
-
+Apps built for Android, ask for an APK and I can send it your way!
 
 #### Roll A Ball in Augmented Reality Ver 0.4
 <iframe width="560" height="315" src="https://www.youtube.com/embed/izFG_UTKgCY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
